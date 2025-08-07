@@ -18,7 +18,8 @@ Uma calculadora científica responsiva desenvolvida com **HTML**, **CSS** e **Ja
 
 ## 📷 Demonstração
 
-![Calculadora Científica]<img width="1321" height="722" alt="Capturar" src="https://github.com/user-attachments/assets/f5fd2c5b-ab73-477f-9673-dd346fc15323" />
+Calculadora Científica
+<img width="1321" height="722" alt="Capturar" src="https://github.com/user-attachments/assets/f5fd2c5b-ab73-477f-9673-dd346fc15323" />
 
 *(imagem real do projeto)*
 
