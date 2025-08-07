@@ -20,7 +20,7 @@ Uma calculadora científica responsiva desenvolvida com **HTML**, **CSS** e **Ja
 
 ![Calculadora Científica]<img width="1321" height="722" alt="Capturar" src="https://github.com/user-attachments/assets/f5fd2c5b-ab73-477f-9673-dd346fc15323" />
 
-*(Substitua pela imagem real do seu projeto)*
+*(imagem real do projeto)*
 
 ## 📂 Estrutura do Projeto
 
