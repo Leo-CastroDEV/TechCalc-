@@ -18,7 +18,7 @@ Uma calculadora científica responsiva desenvolvida com **HTML**, **CSS** e **Ja
 
 ## 📷 Demonstração
 
-![Calculadora Científica](./screenshot.png)  
+![Calculadora Científica](./Capturar.PNG.)  
 *(Substitua pela imagem real do seu projeto)*
 
 ## 📂 Estrutura do Projeto
@@ -42,6 +42,14 @@ Comece a realizar cálculos!
 📌 Melhorias Futuras
 Histórico de cálculos realizados
 
+Modo escuro (dark mode)
+
+Atalhos via teclado
+
+Temas personalizáveis
+
+Exportar resultados em PDF ou TXT
+
 📄 Licença
 Este projeto está sob a licença MIT – sinta-se livre para usá-lo e modificá-lo como quiser.
-Veja o arquivo LICENSE para mais detalhes.
+
