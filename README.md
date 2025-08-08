@@ -18,7 +18,7 @@ Uma calculadora científica responsiva desenvolvida com **HTML**, **CSS** e **Ja
 
 ## 📷 Demonstração
 
-![Calculadora Científica](<img src="/Capturar.PNG")  
+![Calculadora Científica](/Capturar.PNG)  
 *(imagem real do seu projeto)*
 
 ## 📂 Estrutura do Projeto
